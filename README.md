@@ -23,8 +23,8 @@ Add this to your `build.gradle` in addition of the base Fabric mod `build.gradle
 repositories {
     mavenLocal()
     maven {
-        name 'Gegy'
-        url 'https://maven.gegy.dev'
+        name = 'Gegy'
+        url = 'https://maven.gegy.dev'
     }
 }
 
